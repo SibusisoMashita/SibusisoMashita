@@ -77,29 +77,6 @@ A configurable Java service and companion interface for evaluating booked transa
   </tr>
 </table>
 
-### Earlier work: Vault Vibes
-
-**Archived prototype · Financial domain modelling**
-
-A Spring Boot and React exploration of stokvel contributions, loans and member dashboards, with AWS/Cognito integration. Retained as an earlier prototype rather than presented as a production financial service.
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Vault Vibes API</h3>
-      <p>Contribution, loan and pool-accounting domain modelling.</p>
-      <p><strong>Java · Spring Boot · PostgreSQL · AWS</strong></p>
-      <a href="https://github.com/SibusisoMashita/vault-vibes-backend">Archived backend &rarr;</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Vault Vibes Web</h3>
-      <p>Member and administrator views for the stokvel prototype.</p>
-      <p><strong>React · TypeScript · Tailwind CSS · Cognito</strong></p>
-      <a href="https://github.com/SibusisoMashita/vault-vibes-frontend">Archived frontend &rarr;</a>
-    </td>
-  </tr>
-</table>
-
 ## How I work
 
 | Area | Tools and focus |
