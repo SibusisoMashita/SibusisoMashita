@@ -116,12 +116,7 @@ These public projects are separate from my employer’s production systems. Asse
 ## GitHub Activity
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=SibusisoMashita&show_icons=true&hide_border=true&bg_color=0D1117&title_color=22C55E&icon_color=22C55E&text_color=C9D1D9&rank_icon=github" alt="Sibusiso's GitHub stats" />
   <img width="49%" src="https://streak-stats.demolab.com?user=SibusisoMashita&theme=github-dark-blue&hide_border=true&background=0D1117&ring=22C55E&fire=22C55E&currStreakLabel=22C55E" alt="Sibusiso's GitHub streak" />
-</p>
-
-<p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SibusisoMashita&layout=compact&hide_border=true&bg_color=0D1117&title_color=22C55E&text_color=C9D1D9&langs_count=8" alt="Most used languages" />
 </p>
 
 <p align="center">
